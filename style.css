@@ -1,3 +1,17 @@
 body {
-background-color: yellow;
+  background-color: hotpink;
+}
+h1 {
+  color: yellow ;
+  background: green;
+  text-shadow: 2px 5px hotpink;
+  letterspacing: 5px; 
+}
+p{
+  color: skyblue;
+  background: black;
+}
+img{
+  width: 50%;
+  border: dashed 100px black;
 }
